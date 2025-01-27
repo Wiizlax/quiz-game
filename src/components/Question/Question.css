@@ -1,0 +1,7 @@
+.confetti-small canvas {
+    width: 100% !important; /* Réduction générale */
+    height: 100% !important;
+    transform: scale(0.2); /* Réduction à 20% de la taille initiale */
+    transform-origin: center; /* Maintient le centrage */
+  }
+  
